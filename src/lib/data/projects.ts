@@ -33,7 +33,7 @@ export const projects: Project[] = [
         altText: "Screenshot of Invoice Management showing the dashboard interface",    
     },
     {
-        title: "Habit Tracker Pro",
+        title: "Habit Tracker",
         description: "A data-driven wellness application to monitor daily streaks and visualize progress through dynamic charts.",
         tags: ["TypeScript", "State Management", "HealthTech"],
         link: "https://amarkinstage-3.vercel.app/",
